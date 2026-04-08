@@ -19,8 +19,5 @@ balls (the asteroids)
 RUN COMMAND:
 uv run main.py
 
-i don't plan on updating, if you found this you are either named philipp
-or you SOMEHOW found it, anyways have "fun" shooting asteroids (the balls)
-
 to philipp:
 if you found this you owe me mcdonalds
