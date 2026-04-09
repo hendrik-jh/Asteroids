@@ -6,6 +6,8 @@ Rotate right - D
 Move forward - W
 Move backwards - S
 
+Instant Rotation - X
+
 Shoot - SPACE
 
 HOW TO PLAY:
